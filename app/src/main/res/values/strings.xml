@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zad5</string>
+    <string name="ZAD5_TAG">log</string>
+    <string name="mail_hint">Въведете валиден мейл</string>
+    <string name="goto_2">Към активити 2</string>
+    <string name="name">Въведете име</string>
+    <string name="address">Въведете адрес</string>
+    <string name="city">Въведете град</string>
+    <string name="phone">Въведете телефон</string>
+    <string name="backButton">Back</string>
+    <string name="nextButton">Next</string>
+    <string name="Back">Back</string>
+    <string name="intent_error">Intent is NULL</string>
+    <string name="range_error">Error</string>
+    <string name="phone_err">Error Phone</string>
+
+</resources>
