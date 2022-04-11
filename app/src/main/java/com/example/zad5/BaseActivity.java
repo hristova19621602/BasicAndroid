@@ -18,7 +18,7 @@ abstract  class BaseActivity extends AppCompatActivity implements View.OnClickLi
         }
         else
         {
-            Log.e(getString(R.string.ZAD5_TAG), "Intent is NULL");
+            Log.e(getString(R.string.ZAD5_TAG), "Intent is NULL!");
         }
 
 
